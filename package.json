@@ -1,0 +1,25 @@
+{
+  "name": "geojson-or-csv-insert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insert_geomerty_in_geojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yooncoding/geojson-or-csv-insert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yooncoding/geojson-or-csv-insert/issues"
+  },
+  "homepage": "https://github.com/Yooncoding/geojson-or-csv-insert#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.0",
+    "proj4": "^2.7.5"
+  }
+}
